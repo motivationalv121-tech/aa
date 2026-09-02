@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Studio Agent",
+  "description": "Professional Mobile-First AI Video Agent: One-Prompt to Research, Script, Storyboard, AI Visuals, Voiceover, Subtitles, Timeline Editing, and Rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
